@@ -10,7 +10,7 @@ I believe in the power of automation to improve efficiency, and I’m always exp
 - **🌱 IoT Exploration**: Diving into the world of RaspberryPi and Arduino for hands-on projects.
 - **🎶 Audiophile**: Deeply passionate about listening, feeling and exploring music in all its forms.
 - **🕶 Cyberpunk**: Fascinated by dystopian futures, cybernetics, and the fusion of humanity and technology since [this](https://en.wikipedia.org/wiki/Neuromancer).
-- **⛩️ Aikidoka**: (Tryin' to) practicing martial art focused on balance, harmony, and redirecting energy.
+- **⛩️ Aikidoka**: Practicing martial art focused on balance, harmony, and redirecting energy.
 
 ##
 

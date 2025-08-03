@@ -5,7 +5,7 @@ I believe in the power of automation to improve efficiency, and I’m always exp
 
 ### 🚀 Here's something about me:
 - **🐍 Pythonista**: Writing elegant Python code to solve various challenges.
-- **🤖 Intelligent Systems**: Building smart solutions using the Django-Angular stack, machine learning and generative AI.
+- **🤖 Intelligent Systems**: Building smart solutions using the Django-Angular stack, Machine Learning and Generative AI.
 - **⚙️ Automation**: Automating tasks and processes to save time and boost productivity.
 - **🌱 IoT Exploration**: Diving into the world of RaspberryPi and Arduino for hands-on projects.
 - **🎶 Audiophile**: Deeply passionate about listening, feeling and exploring music in all its forms.

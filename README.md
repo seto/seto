@@ -1,15 +1,15 @@
 ### Hello, world! 🖖
 
-I'm Roberto aka Seto. I'm a **self-made** software developer working in the **AI & Robotics** field.  
-I believe in the power of automation to improve efficiency, and I’m always exploring new technologies.
+I'm Roberto aka Seto, a _self-made_ software developer working in **AI & Robotics**.  
+I believe in the power of automation to boost efficiency, and I'm always eager to explore new technologies.
 
-### 🚀 Here's something about me:
+### Here's something about me:
 - **🐍 Pythonista**: Writing elegant Python code to solve various challenges.
 - **🤖 Intelligent Systems**: Building smart solutions using the Django-Angular stack, Machine Learning and Generative AI.
 - **⚙️ Automation**: Automating tasks and processes to save time and boost productivity.
 - **🌱 IoT Exploration**: Diving into the world of RaspberryPi and Arduino for hands-on projects.
 - **🎶 Audiophile**: Deeply passionate about listening, feeling and exploring music in all its forms.
-- **🕶 Cyberpunk**: Fascinated by dystopian futures, cybernetics, and the fusion of humanity and technology since [this](https://en.wikipedia.org/wiki/Neuromancer).
+- **🕶 Cyberpunk**: Fascinated by dystopian futures, cybernetics, ad human-tech fusion.
 - **☯️ Wing Chun (詠春)**: Practicing martial art focused on efficiency, simplicity and energy flow.
 
 ##

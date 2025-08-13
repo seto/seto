@@ -9,6 +9,7 @@ I believe in the power of automation to boost efficiency, and I'm always eager t
 - **⚙️ Automation**: Automating tasks and processes to save time and boost productivity.
 - **🌱 IoT Exploration**: Diving into RaspberryPi and Arduino for hands-on projects.
 - **🎶 Audiophile**: Deeply passionate about listening, feeling and exploring music in all its forms.
+- **🎬 Film-buff**: Avid consumer of visual storytelling and film history.
 - **🕶 Cyberpunk**: Fascinated by dystopian futures, cybernetics and human-tech fusion.
 - **☯️ Wing Chun (詠春)**: Practicing martial art focused on efficiency, simplicity and energy flow.
 

@@ -5,11 +5,11 @@ I believe in the power of automation to boost efficiency, and I'm always eager t
 
 ### Here's something about me:
 - **🐍 Pythonista**: Writing elegant Python code to solve various challenges.
-- **🤖 Intelligent Systems**: Building smart solutions using the Django-Angular stack, Machine Learning and Generative AI.
+- **🤖 Intelligent Systems**: Building smart solutions using the Django-Angular stack, ML and GenAI.
 - **⚙️ Automation**: Automating tasks and processes to save time and boost productivity.
-- **🌱 IoT Exploration**: Diving into the world of RaspberryPi and Arduino for hands-on projects.
+- **🌱 IoT Exploration**: Diving into RaspberryPi and Arduino for hands-on projects.
 - **🎶 Audiophile**: Deeply passionate about listening, feeling and exploring music in all its forms.
-- **🕶 Cyberpunk**: Fascinated by dystopian futures, cybernetics, ad human-tech fusion.
+- **🕶 Cyberpunk**: Fascinated by dystopian futures, cybernetics and human-tech fusion.
 - **☯️ Wing Chun (詠春)**: Practicing martial art focused on efficiency, simplicity and energy flow.
 
 ##

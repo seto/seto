@@ -1,19 +1,58 @@
-### Hello, world! 🖖
-
-I'm Roberto aka Seto, a _self-made_ software developer working in **AI & Robotics**.  
-I believe in the power of automation to boost efficiency, and I'm always eager to explore new technologies.
-
-### Here's something about me:
-- **🐍 Pythonista**: Writing elegant Python code to solve various challenges.
-- **🤖 Intelligent Systems**: Building smart solutions using the Django-Angular stack, ML and GenAI.
-- **⚙️ Automation**: Automating tasks and processes to save time and boost productivity.
-- **🌱 IoT Exploration**: Diving into RaspberryPi and Arduino for hands-on projects.
-- **🎶 Audiophile**: Deeply passionate about listening, feeling and exploring music in all its forms.
-- **🎬 Film-buff**: Avid consumer of visual storytelling and film history.
-- **🕶 Cyberpunk**: Fascinated by dystopian futures, cybernetics and human-tech fusion.
-- **☯️ Wing Chun (詠春)**: Practicing martial art focused on efficiency, simplicity and energy flow.
-
-##
+```json
+{
+    "profile": {
+        "stack": [
+            "python",
+            "typescript",
+            "csharp",
+            "visualbasic",
+            "javascript"
+        ],
+        "quote": "while(not_done) { do_it_yourself(); } // KISS",
+        "technologies": {
+            "fullstack": {
+                "backend": [
+                    "django",
+                    "postgresql",
+                    "mongodb",
+                    "oracle",
+                    "mssql"
+                ],
+                "frontend": [
+                    "angular",
+                    "sass",
+                    "blazor",
+                    "web_forms"
+                ],
+                "other": [
+                    "machine_learning",
+                    "gen_ai",
+                    "automation",
+                    "azure"
+                ]
+            }
+        },
+        "exploration": {
+            "iot": [
+                "raspberrypi",
+                "arduino"
+            ],
+            "mobile": [
+                "swiftui",
+                "react_native",
+                "flutter"
+            ]
+        },
+        "interests": [
+            "cyberpunk",
+            "audiophile",
+            "film_buff",
+            "digital_words",
+            "wing_chun"
+        ]
+    }
+}
+```
 
 <p align="center">
   <a href="http://www.catb.org/hacker-emblem/">

@@ -47,7 +47,7 @@
             "cyberpunk",
             "audiophile",
             "film_buff",
-            "digital_words",
+            "digital_worlds",
             "wing_chun"
         ]
     }

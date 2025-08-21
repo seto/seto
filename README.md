@@ -26,7 +26,7 @@
                 ],
                 "other": [
                     "machine_learning",
-                    "gen_ai",
+                    "generative_ai",
                     "automation",
                     "azure"
                 ]

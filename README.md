@@ -39,7 +39,6 @@
             ],
             "mobile": [
                 "swiftui",
-                "react_native",
                 "flutter"
             ]
         },

@@ -13,6 +13,7 @@
             "fullstack": {
                 "backend": [
                     "django",
+                    "fastapi",
                     "postgresql",
                     "mongodb",
                     "oracle",

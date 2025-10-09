@@ -6,7 +6,7 @@ profile:
         - csharp
         - javascript
         - visualbasic 
-    quote: "while(not_done) { do_it_yourself(); } // KISS
+    quote: "while(not_done) { do_it_yourself(); } // KISS"
     technologies:
         fullstack:
             backend:

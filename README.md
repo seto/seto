@@ -18,7 +18,7 @@ profile:
                 - angular
                 - sass
                 - blazor
-                - web_forms
+                - webforms
             database:
                 - postgresql
                 - mongodb

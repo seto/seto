@@ -3,10 +3,13 @@ from typing import List, Dict
 
 
 class Profile:
+    """
+    while not done:
+        do_it_yourself()  # KISS
+    """
+
     def __init__(self):
         self.stack: List[str] = ["python", "typescript", "csharp", "javascript", "visualbasic"]
-        self.quote: str = "while not done: do_it_yourself()  # KISS"
-
         self.tech: Dict[str, List[str]] = {
             "backend": ["django", "fastapi", "nodejs", "aspnetcore"],
             "frontend": ["angular", "sass", "blazor", "webforms"],
@@ -24,6 +27,7 @@ class Profile:
     @property
     def interests(self) -> List[str]:
         return ["cyberpunk", "audiophile", "film_buff", "digital_worlds"]
+
 ```
 
 <p align="center">

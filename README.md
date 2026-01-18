@@ -9,11 +9,11 @@ class Profile:
     """
 
     def __init__(self):
-        self.stack: List[str] = ["python", "typescript", "csharp", "javascript", "visualbasic"]
+        self.stack: List[str] = ["python", "typescript", "csharp", "javascript"]
         self.tech: Dict[str, List[str]] = {
             "backend": ["django", "fastapi", "nodejs", "aspnetcore"],
-            "frontend": ["angular", "sass", "blazor", "webforms"],
-            "database": ["postgresql", "mongodb", "oracle", "mssql"],
+            "frontend": ["angular", "sass", "blazor"],
+            "database": ["postgresql", "mongodb", "mssql"],
             "other": ["machine_learning", "generative_ai", "automation", "azure"],
         }
 
@@ -27,7 +27,6 @@ class Profile:
     @property
     def interests(self) -> List[str]:
         return ["cyberpunk", "audiophile", "film_buff", "digital_worlds"]
-
 ```
 
 <p align="center">

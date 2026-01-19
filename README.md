@@ -12,16 +12,16 @@ class Profile:
         self.stack: List[str] = ["python", "typescript", "csharp", "javascript"]
         self.tech: Dict[str, List[str]] = {
             "backend": ["django", "fastapi", "nodejs", "aspnetcore"],
-            "frontend": ["angular", "sass", "blazor"],
+            "frontend": ["vue", "angular", "blazor"],
             "database": ["postgresql", "mongodb", "mssql"],
-            "other": ["machine_learning", "generative_ai", "automation", "azure"],
+            "other": ["automation", "ai_engineering", "machine_learning", "azure"],
         }
 
     @property
     def exploration(self) -> Dict[str, List[str]]:
         return {
             "iot": ["raspberrypi", "arduino"],
-            "mobile": ["flutter", "swiftui"],
+            "mobile": ["quasar", "flutter", "swiftui"],
         }
 
     @property

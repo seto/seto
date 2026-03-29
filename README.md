@@ -9,7 +9,7 @@ class Profile:
     """
 
     def __init__(self):
-        self.lang: Set[str] = {
+        self.langs: Set[str] = {
             "python", "javascript", "sql",
         }
         self.core: Set[str] = {

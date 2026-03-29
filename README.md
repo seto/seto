@@ -1,5 +1,5 @@
 ```python
-from typing import List, Dict
+from typing import List, Set
 
 
 class Profile:
@@ -9,24 +9,25 @@ class Profile:
     """
 
     def __init__(self):
-        self.stack: List[str] = ["python", "typescript", "csharp", "javascript"]
-        self.tech: Dict[str, List[str]] = {
-            "backend": ["django", "fastapi", "nodejs", "aspnetcore"],
-            "frontend": ["vue", "angular", "blazor"],
-            "database": ["postgresql", "mongodb", "mssql"],
-            "other": ["automation", "ai_engineering", "machine_learning", "azure"],
+        self.lang: Set[str] = {
+            "python", "javascript", "sql",
+        }
+        self.core: Set[str] = {
+            "automation", "ai_engineering", "full_stack",
         }
 
     @property
-    def exploration(self) -> Dict[str, List[str]]:
-        return {
-            "iot": ["raspberrypi", "arduino"],
-            "mobile": ["quasar", "flutter", "swiftui"],
-        }
+    def exploring(self) -> List[str]:
+        return [
+            "iot", "robotics",
+        ]
 
     @property
     def interests(self) -> List[str]:
-        return ["cyberpunk", "audiophile", "film_buff", "digital_worlds"]
+        return [
+            "cyberpunk", "audiophile", "film_buff", "digital_worlds",
+        ]
+
 ```
 
 <p align="center">
